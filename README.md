@@ -6,6 +6,9 @@
 
 <p align="left">
   🦄 Habilidades: <strong>HTML, CSS, Sass, JavaScript, PHP and UI/UX Design.</strong>
+</p>
+
+<p align="left">
   🦄 Frameworks/Bibliotecas: <strong>Angular, React, Node.js, Ionic, jQuery, Bootstrap, Tailwind</strong>
 </p>
 
