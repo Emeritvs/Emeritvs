@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🦄 Frameworks/Bibliotecas: <strong>Angular, React, Node.js, Ionic, jQuery, Bootstrap, Tailwind</strong>
+  🦄 Frameworks/Bibliotecas: <strong>Angular, React, Node.js, Laravel, Ionic, jQuery, Bootstrap, Tailwind</strong>
 </p>
 
 <p align="left">
