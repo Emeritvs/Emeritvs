@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [https://github.com/Emeritvs/readme](https://github.com/Emeritvs/readme)
 
-- 📫 How to reach me **augustog.sxt@gmail.com**
+- 📫 How to reach me **augustog.sxt@gmail.com** or in my [LinkedIn](https://www.linkedin.com/in/guilherme-augustog/)
 
 - ⚡ Fun fact: I like digital illustration too, and love how art can work with development to create user interfaces and experiences.
 
