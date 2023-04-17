@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate with **front-end and UX/UI on projects**
 
-- 🤝 I’m looking for help with [https://github.com/Emeritvs/readme](https://github.com/Emeritvs/readme)
+<!---- 🤝 I’m looking for help with [https://github.com/Emeritvs/readme](https://github.com/Emeritvs/readme)-->
 
 - 📫 How to reach me **augustog.sxt@gmail.com** or in my [LinkedIn](https://www.linkedin.com/in/guilherme-augustog/)
 
