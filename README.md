@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Gomes</h1>
-<h3 align="center">Fullstack Developer | Javascript & PHP</h3>
+<h3 align="center">Fullstack & Mobile Developer </h3>
 
-<h4 align="center">A Web Developer and UX/UI Entushiast, looking to create VR/AR tools.</h4>
+<h4 align="center">A Web Developer and UX/UI Entushiast.</h4>
 
 
 
