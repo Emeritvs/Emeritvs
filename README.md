@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Gomes</h1>
-<h3 align="center">Software Developer </h3>
+<h3 align="center">Software Developer | Javascript & PHP </h3>
 
 
 
