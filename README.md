@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Guilherme Gomes</h1>
-<h3 align="center">Fullstack Developer </h3>
+<h3 align="center">Software Developer </h3>
 
-<h4 align="center">A Web Developer and UX/UI Entushiast.</h4>
 
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXdkODdiZGQwZWNoMmU1cGU2aHl4czZubWhxY2xtdnNncTAxOWtsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HUhmhLMitxCifsc/giphy.gif" />
-</div>
+
+  <div align="center">
+    <img id="boba-gif" height="200" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXdkODdiZGQwZWNoMmU1cGU2aHl4czZubWhxY2xtdnNncTAxOWtsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HUhmhLMitxCifsc/giphy.gif" />
+  </div>
+
+
 
 
 - 📫 How to reach me **augustog.dev@gmail.com** or in my [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="max-width: 100%;" />](https://www.linkedin.com/in/guilherme-augustog/)
